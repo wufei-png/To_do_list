@@ -25,6 +25,9 @@ pnpm run start        # 按产品环境的要求，运行项目
 ```
 
 实际操作：
-cd simple-react
-pnpm install
-pnpm run dev
+
+- cd simple-react
+
+- pnpm install
+
+- pnpm run dev
